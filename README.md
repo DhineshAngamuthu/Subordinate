@@ -9,4 +9,4 @@ gcc -o subordinate subordinate.c
 
 USE ONLY FOR EDUCATIONAL PURPOSE.
 
-USE VPN & TOR & PROXY to hide yourself
+Use VPN & TOR & PROXY to hide yourself
