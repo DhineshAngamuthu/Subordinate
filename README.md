@@ -7,6 +7,13 @@ gcc -o subordinate subordinate.c
 
 ./subordinate VICTIM-IP PORT
 
+
+
+***************************************************************
+
 USE ONLY FOR EDUCATIONAL PURPOSE.
 
 Use VPN & TOR & PROXY to hide yourself
+
+
+***************************************************************
